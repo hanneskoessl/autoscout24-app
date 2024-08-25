@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#3F72AF"
+backgroundColor = "#F9F7F7"
+textColor = "#112D4E"
+secondaryBackgroundColor = "#DBE2EF"
+
+font = "sans serif"
+
+[server]
+runOnSave = true
+
+[runner]
+magicEnabled = true
+
+[layout]
+wideMode = true
